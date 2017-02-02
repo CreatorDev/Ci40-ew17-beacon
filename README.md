@@ -1,10 +1,10 @@
 ![logo](https://static.creatordev.io/logo-md-s.svg)
 
-# Embedded World 2017 - bulb controller app
+# Embedded World 2017 - beacon
 
 ## Overview
 
-This scripts broadcast url in eddystone-url format. Such broadcast can be observed by Android and iOS devices giving user notifications.
+This script broadcasts url in eddystone-url format. Such broadcast can be observed by Android and iOS devices giving user notifications.
 
 ## Prerequisties
 
