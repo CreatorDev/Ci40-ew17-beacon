@@ -14,7 +14,7 @@ Following packages need to ba available on board
 
 ## Running the script
 
-Start advertismenet
+Start advertisement
 
 `python3 advertise-url.py --url <url-to-advertise>`
 
