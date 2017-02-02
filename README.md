@@ -20,4 +20,4 @@ Start advertismenet
 
 Stop advertisement
 
-`python3 advertise-url.pu --stop` 
+`python3 advertise-url.py --stop` 
